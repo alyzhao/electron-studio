@@ -1,0 +1,27 @@
+{
+  "name": "start-demo",
+  "version": "1.0.0",
+  "description": "electron node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyzhao/electron-studio.git"
+  },
+  "keywords": [
+    "electron",
+    "node"
+  ],
+  "author": "Allen Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alyzhao/electron-studio/issues"
+  },
+  "homepage": "https://github.com/alyzhao/electron-studio#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
